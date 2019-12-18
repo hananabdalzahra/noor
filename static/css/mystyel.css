@@ -1,0 +1,26 @@
+.jumbotron{
+    background-color:burlywood;
+    background-size: 100%;
+    color:black;
+}
+/*.mystyel{
+    background-color: rgb(4, 0, 255);
+
+}
+*/
+
+.navbar {
+            position: fixed;
+           
+            width: 100%;
+            z-index: 999;
+            top: 0%;
+}
+            .navbar {
+            position: fixed;
+            
+            width: 100%;
+            z-index: 999;
+
+          }
+         
